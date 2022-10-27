@@ -1,0 +1,158 @@
+
+.firstbox a{
+	margin-left: 2%;
+	text-decoration: none;
+	vertical-align: middle;
+	padding: 1%;
+	font-family: sans-serif;
+	color: black;
+	font-weight: bolder;
+
+}
+.firstbox img{
+	vertical-align: middle;
+}
+#signin{
+	background-color: ;
+	border-radius: 20%;	
+}
+.nokyc{
+	text-align: center;
+	font-weight: bold;
+	font-family: sans-serif;
+}
+.heading{
+	font-size: 350%;
+	font-family: sans-serif;
+}
+.para{
+	font-family: sans-serif;
+	font-size: 120%;
+	font-weight: bold;%;
+}
+.section{
+	display: flex;
+	justify-content:space-between ;
+	margin-top: 10%;
+	margin-left: 3%;
+}
+.app{
+
+	background-color: black;
+	color: white;
+	border: 1px solid black;
+	padding-top: 3%;
+	padding-bottom:3% ;
+	padding-left: 5%;
+	padding-right: 3%;
+	border-radius: 40px;
+	border-width: 30%;
+	width: 40%;
+	text font-family: sans-serif;
+}
+.app:hover{
+	background-color: white;
+	color: black;
+}
+.recharge{
+	padding-left: 4%;
+	background-color: #00baf2;
+	justify-content: ;
+	text-decoration: none;
+	color: white;
+}
+.recharge a{
+	text-decoration: none;
+	color: white;
+	font-family: sans-serif;
+	padding-bottom: 5%;
+}
+.sec2div{
+	display: flex;
+	justify-content: space-between;
+	text-decoration: none;
+
+}
+.reheading{
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 35px;
+	padding-top: 5%;
+}
+.book{
+	padding-top: 2%;
+	padding-left: 4%;
+	background-color: #0f4a8a;
+	justify-content: ;
+	text-decoration: none;
+		color: white;}
+.sec3div{
+	display: flex;
+	justify-content: space-between;
+	text-decoration: none;
+		}
+.book a{
+	text-decoration: none;
+	color: white;
+	font-family: sans-serif;
+	padding-bottom: 5%;
+}
+.s3reheading{
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 35px;
+	padding-top: 1%;
+}
+.insheading{
+	font-size: 300%;
+	font-family: sans-serif;
+	padding-top:5% ;
+	padding-left:7%;
+	padding-bottom: 7%;
+}
+.instrument{
+	display: flex;
+	padding-left: 10%;
+	justify-content: space-between;
+
+}
+.ins2heading{
+	font-size: 200%;
+	font-family: sans-serif;
+}
+.insp{
+	font-family: sans-serif;
+	font-size: 100%;
+	font-weight: bolder;
+	padding-left: 10%;
+}
+.insp2{
+		font-family: sans-serif;
+		font-size: 100%;
+		font-weight: bold;%;
+}
+.insdiv1{
+	padding-left:20 %;
+	align-items: ;
+}
+.insdiv2{
+	padding-left: 20%;
+}
+.app2{
+
+	background-color: black;
+	color: white;
+	border: 1px solid black;
+	padding-top: 3%;
+	padding-bottom:3% ;
+	padding-left: 5%;
+	padding-right: 3%;
+	border-radius: 40px;
+	border-width: 60%;
+	width: 69%;
+	text font-family: sans-serif;
+}
+.app2:hover{
+	background-color: white;
+	color: black;
+	}
